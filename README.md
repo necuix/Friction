@@ -15,6 +15,8 @@ Features
 
 • Written in Python
 
+
+
 Installation
 
 1. apt update -y
@@ -29,6 +31,9 @@ Friction.py — Main load tester script
 
 dependencies.txt — List of required Python packages
 
+
+
+
 Legal Warning
 
 This tool is strictly for educational, research, and authorized testing purposes only.
@@ -37,6 +42,8 @@ Do not use Friction to attack or stress test any system without explicit permiss
 
 Unauthorized use against networks, services, or devices you do not own or have permission to test is illegal and unethical.
 The author assumes no responsibility for any misuse or damage.
+
+
 
 
 
