@@ -1,0 +1,4 @@
+colorama
+bane
+
+# Friction load tester dependencies by necuix
