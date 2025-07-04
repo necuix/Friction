@@ -20,7 +20,7 @@ _This is Friction V1, currently focusing on HTTP/HTTPS load testing methods. Mor
 2. git clone https://github.com/necuix/Friction
 3. cd Friction
 4. pip install -r dependencies.txt
-5. python3 friction.py
+5. python3 friction-v1.py
 
 
 Files:
